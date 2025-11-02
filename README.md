@@ -23,9 +23,13 @@ The system consists of:
 📁 JavaChatSystem/
 │
 ├── Server.java # Server program to handle client connections and message distribution
+
 ├── UserOne.java # Client 1 implementation
+
 ├── UserTwo.java # Client 2 implementation
+
 ├── UserThird.java # Client 3 implementation
+
 └── README.md # Project documentation
 
 
@@ -87,24 +91,28 @@ Type your message:
 Hello everyone!
 UserTwo: Hi UserOne!
 
-💡 Concepts Demonstrated
-
+💡 Concepts Demonstrated:
 Java Socket Programming (Socket, ServerSocket)
-
 Input/Output Streams (BufferedReader, PrintWriter)
-
 Multi-threading (Thread class for each client)
-
 Client-Server Communication Model
-
 Message Broadcasting Logic
 
-🔮 Future Enhancements
-
+🔮 Future Enhancements:
 🧑‍💻 GUI using JavaFX or Swing
-
 🔐 Encrypted messaging
-
 👥 User authentication and custom usernames
-
 📁 File transfer between users
+
+## Project Explanation Video:
+https://www.loom.com/share/9bc7c536ae91419cbb9c4354055e028a
+
+👩‍💻 Author
+Khyati Kumari
+🎓 B.E. in Computer Science & Engineering
+📧 khyatikash1604@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/khyati-kumari-nwd/)
+
+🪪 License
+This project is licensed under the MIT License.
+You’re free to use for learning and research.
