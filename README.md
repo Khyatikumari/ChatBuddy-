@@ -108,11 +108,17 @@ Message Broadcasting Logic
 https://www.loom.com/share/9bc7c536ae91419cbb9c4354055e028a
 
 👩‍💻 Author
+
 Khyati Kumari
+
 🎓 B.E. in Computer Science & Engineering
+
 📧 khyatikash1604@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/khyati-kumari-nwd/)
 
 🪪 License
+
 This project is licensed under the MIT License.
+
 You’re free to use for learning and research.
