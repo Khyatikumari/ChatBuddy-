@@ -103,7 +103,7 @@ Message Broadcasting Logic
 🔐 Encrypted messaging
 👥 User authentication and custom usernames
 📁 File transfer between users
-
+```
 ## Project Explanation Video:
 https://www.loom.com/share/9bc7c536ae91419cbb9c4354055e028a
 
